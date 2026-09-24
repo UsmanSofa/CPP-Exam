@@ -18,7 +18,7 @@ Accessing object attributes
 
 Add the screenshot of the Q1 program/output below:
 
-![Question 1 Screenshot](screenshots/program-1.png)
+![Question 1 Screenshot](screenshots/program1.png)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Parameterized constructor - Multiple objects - Dynamic object creation
 
 Add the screenshot of the Q2 program/output below:
 
-![Question 2 Screenshot](screenshots/program-2.png)
+![Question 2 Screenshot](screenshots/program2.png)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ Method implementation - Code reuse
 
 Add the screenshot of the Q3 program/output below:
 
-![Question 3 Screenshot](screenshots/program-3.png)
+![Question 3 Screenshot](screenshots/program3.png)
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ Base-class pointers - Runtime polymorphism
 
 Add the screenshot of the Q4 program/output below:
 
-![Question 4 Screenshot](screenshots/program-4.png)
+![Question 4 Screenshot](screenshots/program4.png)
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ Inheritance - Runtime polymorphism - Base-class pointer array
 
 Add the screenshot of the Q5 program/output below:
 
-![Question 5 Screenshot](screenshots/program-5.png)
+![Question 5 Screenshot](screenshots/program5.png)
 
 ------------------------------------------------------------------------
 
